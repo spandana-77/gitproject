@@ -1,0 +1,2 @@
+Hello, this is my first GitHub practice.
+I am learning clone, commit and merge.
